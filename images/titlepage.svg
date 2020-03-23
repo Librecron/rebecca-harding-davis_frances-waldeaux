@@ -3,7 +3,7 @@
 	<title>The titlepage for the Librecron edition of Frances Waldeaux, by Rebecca Harding Davis</title>
 	<style type="text/css">
 		text{
-			font-family: League Spartan;
+			font-family: league spartan;
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
