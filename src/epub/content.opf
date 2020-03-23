@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://librecron.com/ebooks/rebecca-harding-davis/frances-waldeaux</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-03-23T16:58:27Z</dc:date>
+		<meta property="dcterms:modified">2020-03-23T16:58:27Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/.</dc:rights>
 		<dc:publisher id="publisher">Librecron</dc:publisher>
 		<meta property="file-as" refines="#publisher">Librecron</meta>
@@ -33,15 +33,15 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description"><i>Frances Waldeaux</i> is an 1897 novel published by Rebecca Harding Davis, a pioneer of American literary realism.</dc:description>
+		<dc:description id="description">&lt;i&gt;Frances Waldeaux&lt;/i&gt; is an 1897 novel published by Rebecca Harding Davis, a pioneer of American literary realism.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<![CDATA[<p><i>Frances Waldeaux</i> is an 1897 novel published by Rebecca Harding Davis, a pioneer of American literary realism.</p>
-			<p>Davis was a prolific writer, having published more than 500 works. Among these, her most famous is <i>Life in the Iron Mills</i>, a short story that explores American industrialization and, ultimately, the plight of the worker and their struggle towards the American Dream.]]>
+			&lt;p&gt;&lt;i&gt;Frances Waldeaux&lt;/i&gt; is an 1897 novel published by Rebecca Harding Davis, a pioneer of American literary realism.&lt;/p&gt;
+			&lt;p&gt;Davis was a prolific writer, having published more than 500 works. Among these, her most famous is &lt;i&gt;Life in the Iron Mills&lt;/i&gt;, a short story that explores American industrialization and, ultimately, the plight of the worker and their struggle towards the American Dream.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/335</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">36915</meta>
+		<meta property="se:reading-ease.flesch">85.89</meta>
 		<meta property="se:url.vcs.github">https://github.com/librecron/rebecca-harding-davis_frances-waldeaux</meta>
 		<dc:creator id="author">Rebecca Harding Davis</dc:creator>
 		<meta property="file-as" refines="#author">Davis, Rebecca Harding</meta>
@@ -53,7 +53,6 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Berthe_Morisot</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81145877</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Yuvraj Singh</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Singh, Yuvraj</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://librecron.com</meta>
